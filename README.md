@@ -20,7 +20,7 @@ php scanner_mdl.php your_codeigniter_application_folder
 
 Then you will get something like that :
 ```
- Model class loader By Ludovic <Silentkernel> Frank
+* Model class loader By Ludovic <Silentkernel> Frank
 * @property Mdl_articlecategories $mdl_articlecategories
 * @property Mdl_articles $mdl_articles
 * @property Mdl_users $mdl_users
